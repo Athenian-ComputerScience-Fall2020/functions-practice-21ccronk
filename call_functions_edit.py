@@ -14,7 +14,10 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
+def joke_ster():
+    print("What did Sushi A say to Sushi B?...Wass-a-bi?")
 
-offer_drink()
 say_hi()
+joke_ster()
+offer_drink()
 offer_food()
