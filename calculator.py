@@ -1,6 +1,6 @@
 '''
 Collaborators: 
-
+I got help from Megan over zoom
 '''
 def add_function():
     number1 = int(input("Enter a number: "))
